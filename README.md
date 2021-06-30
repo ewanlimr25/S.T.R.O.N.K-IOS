@@ -1,4 +1,4 @@
-# ThisIsAllYouNeed-IOS
+# Store.Track.Remind.Optimize.N.Keep-IOS
 
 As someone who keeps track of his caloric intake, OMAD (One Meal A Day), Run/Weight Lift and follows a strict diet I am freaking tired of switching between Strava, MyFitnessPal and whatever Apps that I need that only do one specific function.
 
