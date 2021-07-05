@@ -1,14 +1,14 @@
 # Store.Track.Remind.Optimize.N.Keep-IOS
 
-Store your foods and record your exercises.
+Stock your foods.
 
-Track your calories and your position when you are running.
+Track your calories.
+
+Optmize your meal plans.
 
 Remind you when you are low on inventory for your favorite foods.
 
-Optmize you life so that you can live to the fullest.
-
-And Keep on living your best with this app's assistance.
+Execute/Exercise.
 
 As someone who keeps track of his caloric intake, OMAD (One Meal A Day), Run/Weight Lift and follows a strict diet I am freaking tired of switching between Strava, MyFitnessPal and whatever Apps that I need that only do one specific function.
 
